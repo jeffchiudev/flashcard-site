@@ -1,0 +1,7 @@
+.row {
+  padding: 20px;
+}
+
+.card-text1, .card-text2, .card-text3, .card-text4 {
+  display: none;
+}
